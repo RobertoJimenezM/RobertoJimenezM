@@ -1,4 +1,5 @@
 <h1> Hello< Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
+ 
 <p align='center'>
 </p>
 
@@ -10,6 +11,7 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=abcdef&size=20&lines=Welcome+to+my+GitHub+Profile!;I'm+a+System+Engineering;I'm+a+Back-End+Developer;Here+you+can+see+a+little+part+of+my" /></a>
 </p>
 
+<h2>📑 About Me:</h2>
 
 😎 `My name is`: Roberto
 
