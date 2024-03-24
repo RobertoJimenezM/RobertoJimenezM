@@ -1,7 +1,8 @@
 <h1> Hello < Developers/>! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
 
 <div id="header" align="center">
-  <img src="https://giphy.com/embed/CXnj3jCwvETngjy11B" width="480" height="320" frameBorder="0" class="giphy-embed" allowFullScreen width = "30px">
+  <img src="">
+  
   <h1>Hi <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px>, I'm RobertoDev </h1>
   <h3></h3>
 </div>
@@ -44,7 +45,7 @@
 
 <h2> Github Stats <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px> </h2>
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=Aneal07&theme=dark&hide_border=false)<br/>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Roberto&theme=transparent&hide_border=true)](https://git.io/streak-stats)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Aneal07&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
  <h2> Github Trophies </h2>
