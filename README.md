@@ -1,7 +1,7 @@
 <h1> Hello< Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
 
 
-  <img src="https://giphy.com/embed/4rZA5D22301iMgrUNd" width="480" height="266" frameBorder="0" class="giphy-embed" allowFullScreen>
+  < src="https://giphy.com/embed/4rZA5D22301iMgrUNd" width="480" >
 
 
 
